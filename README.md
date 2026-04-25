@@ -21,6 +21,10 @@ See YouTube video: https://youtu.be/1v0w4FITF9M
 
 # Future
 
-The game has a lot of room for advertisements: any sprot apparel, hydration, nutrition, accessories, coaching companies, race promotions could advertise themselves on the HUD, on billboards in the scenery or any other creative way to enhance the user experience.
+I plan to leverage world models like Google Genie 3 project to potentially generate traversable 3D worlds on the fly based on user preferences and real world data.
 
+The game has a lot of room for brand collaborations: any sports apparel, hydration, nutrition, accessories, coaching companies, race promotions could advertise themselves in the scenery or any other creative way that enhances the user experience.
 
+For example a New York based marathon could promote itself with a generated marathon course through the city streets: the user can run / cycle / paddle the course in VR.
+
+Another example: a cycling apparel company could promote itself with a generated cycling course through the Alps: the user can run / cycle / paddle the course in VR. The scenery could be dotted with brand messaging such as the company's logo on billboards, banners, flags, etc. The gear itself could be branded, e.g. the user could be wearing the company's cycling kit.
